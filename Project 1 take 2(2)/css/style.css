@@ -1,0 +1,13 @@
+body {background-image: url(http://www.hdwallpapers.in/walls/the_matrix_1080p-HD.jpg)}
+
+.project1 {color: white; text-align: center; font-size: 25px; border: 2px solid black; margin-left: auto; margin-right: auto; background-color: green}
+
+.webbasics {color: white; text-align: left; font-size: 20px; border: 1px white; margin-left: auto; margin-right: auto; background-color: black}
+
+li {font-size: 30px; font-weight: bold; margin: 1em}
+
+.developertools {color: green; text-align: left; font-size: 20px; border: 6px white; border-style:double; margin-left: auto; margin-right: auto; background-color: Gray}
+
+.dom {background-color: lime; font-size: 20px; border: 6px; padding: 8px}
+
+img {display: block; margin-right: auto; margin-left: auto}
